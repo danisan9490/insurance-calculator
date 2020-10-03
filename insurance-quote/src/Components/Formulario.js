@@ -103,7 +103,7 @@ const Formulario = ({ guardarResumen, guardarCargando }) => {
     >
       { error ? <Error>Todos los campos son obligatorios</Error> : null}
       <Campo>
-        <Label>Brand</Label>
+        <Label>Country</Label>
         <Select
           name="marca"
           value={marca}

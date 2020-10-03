@@ -30,7 +30,7 @@ const Resultado = ({ cotizacion }) => {
 
   return (
     (cotizacion === 0)
-      ? <Mensaje>Choose Brand, Plan and Year</Mensaje>
+      ? <Mensaje>Choose Country, Plan and Year</Mensaje>
       :
       (
         <ResultadoCotizacion>

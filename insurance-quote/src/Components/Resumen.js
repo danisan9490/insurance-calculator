@@ -22,7 +22,7 @@ const Resumen = ({ datos }) => {
     <ContenedorResumen>
       <h2>Insurance Summary</h2>
       <ul>
-        <li>Brand: {primerMayuscula(marca)}</li>
+        <li>Country: {primerMayuscula(marca)}</li>
         <li>Plan: {primerMayuscula(plan)}</li>
         <li>Year:  {year} </li>
       </ul>
