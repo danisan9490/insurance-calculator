@@ -1,5 +1,4 @@
-# insurance-quote
-
+# insurance-calculator
 
 <img src="./img/img1.png" /> 
 
