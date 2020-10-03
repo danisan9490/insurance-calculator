@@ -4,7 +4,7 @@ import Header from './Components/Header';
 function App() {
   return (
     <Header
-      titulo='Cotizador de Seguros'
+      titulo='Insurance Quote'
     />
   );
 }
