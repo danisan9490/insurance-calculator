@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insurance-calculator/static/css/main.360d6756.chunk.css",
+    "main.js": "/insurance-calculator/static/js/main.ca9fe5c7.chunk.js",
+    "main.js.map": "/insurance-calculator/static/js/main.ca9fe5c7.chunk.js.map",
+    "runtime-main.js": "/insurance-calculator/static/js/runtime-main.a6894218.js",
+    "runtime-main.js.map": "/insurance-calculator/static/js/runtime-main.a6894218.js.map",
+    "static/js/2.29f90ad9.chunk.js": "/insurance-calculator/static/js/2.29f90ad9.chunk.js",
+    "static/js/2.29f90ad9.chunk.js.map": "/insurance-calculator/static/js/2.29f90ad9.chunk.js.map",
+    "index.html": "/insurance-calculator/index.html",
+    "precache-manifest.fd60e03e506b0e1d54a7621042bf3367.js": "/insurance-calculator/precache-manifest.fd60e03e506b0e1d54a7621042bf3367.js",
+    "service-worker.js": "/insurance-calculator/service-worker.js",
+    "static/css/main.360d6756.chunk.css.map": "/insurance-calculator/static/css/main.360d6756.chunk.css.map",
+    "static/js/2.29f90ad9.chunk.js.LICENSE.txt": "/insurance-calculator/static/js/2.29f90ad9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6894218.js",
+    "static/js/2.29f90ad9.chunk.js",
+    "static/css/main.360d6756.chunk.css",
+    "static/js/main.ca9fe5c7.chunk.js"
+  ]
+}
